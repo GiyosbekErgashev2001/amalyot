@@ -1,0 +1,66 @@
+.main-header{
+    display: flex;
+    justify-content: space-around;
+}
+.first_child{
+    padding-top: 15px;
+
+}
+.btn{
+    padding-top: 15px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.main-header a{
+    height: 100%;
+}
+.menu ul{
+    display: flex;
+    margin-right: 20px;
+
+}
+.menu ul li{
+    margin-left: 10px;
+    text-decoration: none;
+}
+.main-part{
+    display: flex;
+    height:400px;
+    width:100%;
+}
+.Uz_p{
+    background-color: grey;
+    color: white;
+    width: 50%;
+    text-align: center;
+}
+.write{
+    background-color: black;
+    width: 50%;
+    text-align: center;
+    color: grey;
+}
+.main_news{
+    display: flex;
+    justify-content: space-around;
+}
+.main_news div img{
+    display: block;
+    margin-bottom: 30px;
+}
+.Abu{
+    display: flex;
+    margin-top: 30px;
+}
+.Image{
+    width: 50%;
+    height: 100px;
+    background-color: grey;
+    margin-right: 20px;
+}
+.paragraph{
+    width: 50%;
+}
+
